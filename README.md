@@ -48,7 +48,7 @@ Attach inline policy to access S3 bucket
 ```
 lambda function code
 
-````
+```
 import re
 import json
 import traceback
